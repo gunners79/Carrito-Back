@@ -1,0 +1,45 @@
+{"products": [
+    {
+        "id": 1,
+        "nombre": "ARGENTINA CAMPEON DEL MUNDO 2022",
+        "precio": 35000,
+        "cantidad": 1,
+        "src": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/312/744/products/srdtfyguhijokpln1-06924e2271097aa2e616722656183949-1024-1024.png"
+    },
+    {
+        "id": 2,
+        "nombre": "ARGENTINA 2022 (alternativa)",
+        "precio": 55000,
+        "cantidad": 1,
+        "src": "https://trizop.com/wp-content/uploads/2022/11/argentina-alternativa-player-2022-1.webp"
+    },
+    {
+        "id": 3,
+        "nombre": "ARGENTINA 2010",
+        "precio": 35000,
+        "cantidad": 1,
+        "src": "https://trizop.com/wp-content/uploads/2021/07/argentina-local-2010-retro-2.webp"
+    },
+    {
+        "id": 4,
+        "nombre": "ARGENTINA 1978",
+        "precio": 45000,
+        "cantidad": 1,
+        "src": "https://www.ole.com.ar/miscellaneous/bundles/parallax/images/tshirts/tshirt-1978.png?f9700d6;"
+    },
+    {
+        "id": 5,
+        "nombre": "ARGENTINA 1998",
+        "precio": 35000,
+        "cantidad": 1,
+        "src": "https://www.ole.com.ar/miscellaneous/bundles/parallax/images/tshirts/tshirt-1998_b.png?f9700d6;"
+    },
+    {
+        "id": 6,
+        "nombre": "ARGENTINA 1986",
+        "precio": 45000,
+        "cantidad": 1,
+        "src": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/312/744/products/dfghjkldfghjlkn1-f8a68a3600adcb668d16362639779436-1024-1024.webp"
+    }
+    ]   
+}
